@@ -1,0 +1,657 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /api/bestie/signup","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"DataService.insertUser(...).then(...).cath is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"id\", \"name\", \"password\", \"signup_date\") values (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"insert into \"users\" (\"email\", \"name\", \"password\") values (DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex is not defined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gh@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gh@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gioh@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gioh@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"NO_ERRORS is not defined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gioh@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with uiuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with uiuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with uiuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with uiuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iuih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist select * from \"users\" where \"email\" = 'iumlih@fg.com' limit 1","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist select * from \"users\" where \"email\" = 'iumlih@fg.com' limit 1","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist () => {\n      return knex\n        .from(\"users\")\n        .select(\"*\")\n        .where(\"email\", email)\n        .first();\n    }","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist () => {\n      return knex\n        .from(\"users\")\n        .select(\"*\")\n        .where(\"email\", email)\n        .first();\n    }","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist () => {\n      return knex\n        .from(\"users\")\n        .select(\"*\")\n        .where(\"email\", email)\n        .first();\n    }","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist select * from \"users\" where \"email\" = 'iumlih@fg.com' limit 1","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with iumlih@fg.com is already exist select * from \"users\" where \"email\" = 'iumlih@fg.com' limit 1","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [email] query: select * from \"users\" where \"email\" = ? limit ?","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"doesUserExist(...).then(...).end is not a function","level":"error"}
+{"message":"User with e@mk.ru is already exist!","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.insert is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.insert is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"knex.from is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Pavel created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with e@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User   Pavel   created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gf@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with gf@mk.ru is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Eva created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with eva@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with eva@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with eva@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Alberto created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with alberto@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with alberto@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Anna created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"Cannot read property 'name' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Elinna created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"hash is not a function","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with eugyia@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with eugyia@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ehuhhkgyiagmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ehuhhkgyiagmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ehuhhkgyia@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ikhv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbv@gmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with ihljbv@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with ihljbv@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with ihljbv@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Ena created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"ihljkhbvgmail.com is not valid email","level":"error"}
