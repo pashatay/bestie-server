@@ -21,6 +21,19 @@ const DataService = {
       .select("*")
       .where("userid", userID);
   },
+  findUsersSpecificFriend(knex, userID, friendID) {
+    return knex
+      .from("users_data")
+      .select("*")
+      .where({ userid: userID, id: friendID });
+  },
+  deleteUsersSpecificFriend(knex, userID, friendID) {
+    return knex
+      .from("users_data")
+      .select("*")
+      .where({ userid: userID, id: friendID })
+      .delete();
+  },
   findUsersPassword(knex, email) {
     return knex
       .from("users")
@@ -28,7 +41,7 @@ const DataService = {
       .where("email", email)
       .first();
   },
-  insertData(knex, newFriend) {
+  insertFriend(knex, newFriend) {
     return knex
       .insert(newFriend)
       .into("users_data")

@@ -906,3 +906,207 @@
 {"message":"Friends list fetched","level":"info"}
 {"message":"Unauthorized request to path: /120","level":"error"}
 {"message":"Friends list fetched","level":"info"}
+{"message":"User with tiuovst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"User pnua created.","level":"info"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"select * from \"users_data\" where \"userID\" = $1 and \"friendsID\" = $2 - column \"userID\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"select * from \"users_data\" where \"userid\" = $1 and \"id\" = $2 - invalid input syntax for type integer: \"userid\"","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"select * from \"users_data\" where \"userid\" = $1 and \"id\" = $2 - invalid input syntax for type integer: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot destructure property `friendid` of 'undefined' or 'null'.","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot destructure property `friendid` of 'undefined' or 'null'.","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Cannot destructure property `friendid` of 'undefined' or 'null'.","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Cannot destructure property `friendid` of 'undefined' or 'null'.","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Cannot destructure property `friendid` of 'undefined' or 'null'.","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/4","level":"error"}
+{"message":"Friend with undefined is deleted","level":"info"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7/","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property 'friendid' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /120/7","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"users_data\" where \"userid\" = ? and \"id\" = ?","level":"error"}

@@ -1,9 +1,9 @@
 const express = require("express");
-const logger = require("../src/logger");
-const DataService = require("./data-service");
+const logger = require("../../src/logger");
+const DataService = require("../data-service");
 const jwt = require("jsonwebtoken");
-const validateBearerToken = require("../src/validate-token");
-const { JWT_KEY } = require("../src/config");
+const validateBearerToken = require("../../src/validate-token");
+const { JWT_KEY } = require("../../src/config");
 
 const userPageRouter = express.Router();
 const bodyParser = express.json();

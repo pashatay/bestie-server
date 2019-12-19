@@ -1,12 +1,12 @@
 const path = require("path");
 const express = require("express");
 const xss = require("xss");
-const logger = require("../src/logger");
-const DataService = require("./data-service");
+const logger = require("../../src/logger");
+const DataService = require("../data-service");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
-const validateBearerToken = require("../src/validate-token");
-const { JWT_KEY } = require("../src/config");
+const validateBearerToken = require("../../src/validate-token");
+const { JWT_KEY } = require("../../src/config");
 
 const addFriendRouter = express.Router();
 const bodyParser = express.json();
@@ -77,7 +77,7 @@ addFriendRouter
           userid
         };
 
-        DataService.insertData(req.app.get("db"), newFriend)
+        DataService.insertFriend(req.app.get("db"), newFriend)
           .then(friend => {
             logger.info(`New Friend ${first_name} was created.`);
             res
