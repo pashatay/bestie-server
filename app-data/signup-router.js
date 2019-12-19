@@ -3,13 +3,12 @@ const express = require("express");
 const xss = require("xss");
 const logger = require("../src/logger");
 const DataService = require("./data-service");
-const { doesUserExist } = require("./data-validator");
 const bcrypt = require("bcrypt");
 
-const dataRouter = express.Router();
+const signupRouter = express.Router();
 const bodyParser = express.json();
 
-dataRouter.route("/signup").post(bodyParser, (req, res, next) => {
+signupRouter.route("/signup").post(bodyParser, (req, res, next) => {
   const { name, email, password } = req.body;
   const newUser = { name, email, password };
   const regex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
@@ -31,7 +30,7 @@ dataRouter.route("/signup").post(bodyParser, (req, res, next) => {
     });
   }
 
-  doesUserExist(req.app.get("db"), email).then(user => {
+  DataService.doesUserExist(req.app.get("db"), email).then(user => {
     if (user) {
       logger.error(`User with ${email} is already exist!${user}`);
       return res.status(400).send({
@@ -58,5 +57,4 @@ dataRouter.route("/signup").post(bodyParser, (req, res, next) => {
   });
 });
 
-dataRouter.route("/signup").post(bodyParser, (req, res, next) => {});
-module.exports = dataRouter;
+module.exports = signupRouter;

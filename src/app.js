@@ -4,9 +4,8 @@ const morgan = require("morgan");
 const cors = require("cors");
 const helmet = require("helmet");
 const { NODE_ENV } = require("./config");
-const validateBearerToken = require("./validate-bearer-token");
 const errorHandler = require("./error-handler");
-const dataRouter = require("../app-data/data-router");
+const routerHub = require("../app-data/router-hub");
 
 const app = express();
 
@@ -17,9 +16,9 @@ app.use(
 );
 app.use(helmet());
 app.use(cors());
-app.use(validateBearerToken);
+//app.use(validateBearerToken);
 
-app.use(dataRouter);
+app.use(routerHub);
 
 app.get("/", (req, res) => {
   res.send("Hello, world!");

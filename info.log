@@ -655,3 +655,254 @@
 {"message":"User Ena created.","level":"info"}
 {"message":"Unauthorized request to path: /signup","level":"error"}
 {"message":"ihljkhbvgmail.com is not valid email","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [email] query: select \"password\" from \"users\" where \"email\" = ? limit ?","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Enua created.","level":"info"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"knex.from(...).select(...).where(...).first(...).json is not a function","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"userspassword.json is not a function","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"json is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"p is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with test@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with test@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"data and hash must be strings","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"user is not defined","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"req.json is not a function","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User Opnua created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuost@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuost@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User pnua created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuofvsvst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuofvsvst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuofvsvst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User pnua created.","level":"info"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuokvhhfvsvst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User with tiuokvhhfvsvst@gmail.com is already exist![object Object]","level":"error"}
+{"message":"Unauthorized request to path: /signup","level":"error"}
+{"message":"User pnua created.","level":"info"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Pasha was created.","level":"info"}
+{"message":"user is not defined","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Pasha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Pasha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Pasha was created.","level":"info"}
+{"message":"Unauthorized request to path: /login","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [email] query: select * from \"users\" where \"email\" = ? limit ?","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"res.status.json is not a function","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"authToken is not defined","level":"error"}
+{"message":"req.headers is not a function","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"insert into \"users_data\" (\"dob\", \"first_name\", \"last_name\", \"relationship\", \"userid\") values (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"first_name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"insert into \"users_data\" (\"dob\", \"first_name\", \"last_name\", \"relationship\", \"userid\") values (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT) returning * - null value in column \"first_name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Pasha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Asha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Asha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Asha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend Asha was created.","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend ioioioAsha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend ioioioAsha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend ioioioAsha was created.","level":"info"}
+{"message":"Cannot read property 'split' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"insert into \"users_data\" (\"alc_beverage\", \"books\", \"brands\", \"chat_topics\", \"color\", \"cuisine\", \"dessert\", \"dob\", \"dreams\", \"fears\", \"first_name\", \"flowers\", \"hobbies\", \"humour\", \"inspirations\", \"last_name\", \"movies\", \"music\", \"no_topics\", \"nonalc_beverage\", \"other\", \"profession\", \"relationship\", \"sportgames\", \"tv_shows\", \"userid\") values (DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, DEFAULT, $1) returning * - null value in column \"first_name\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend ioioioAsha was created.","level":"info"}
+{"message":"Unauthorized request to path: /120/addfriend","level":"error"}
+{"message":"New Friend ioioioAsha was created.","level":"info"}
+{"message":"id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Unauthorized request to path: /120","level":"error"}
+{"message":"Friends list fetched","level":"info"}
