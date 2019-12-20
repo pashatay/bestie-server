@@ -27,5 +27,5 @@ CREATE TABLE users_data(
  no_topics TEXT,
  inspirations TEXT,
  other TEXT,
- userid INTEGER REFERENCES users(id)
+ userid INTEGER REFERENCES users(id) ON DELETE CASCADE
 )

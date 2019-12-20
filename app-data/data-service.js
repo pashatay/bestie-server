@@ -15,6 +15,13 @@ const DataService = {
         return rows[0];
       });
   },
+  deleteUser(knex, userID) {
+    return knex
+      .from("users")
+      .select("*")
+      .where("id", userID)
+      .delete();
+  },
   findUsersFriends(knex, userID) {
     return knex
       .from("users_data")

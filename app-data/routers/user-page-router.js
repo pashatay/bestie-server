@@ -24,6 +24,20 @@ userPageRouter
           .catch(next);
       }
     });
+  })
+  .delete(validateBearerToken, (req, res, next) => {
+    jwt.verify(req.token, JWT_KEY, (err, authData) => {
+      if (err) {
+        res.status(401).json({ error: `"token problem" ${req.token}` });
+      } else {
+        const userid = authData.id;
+        DataService.deleteUser(req.app.get("db"), userid)
+          .then(user => {
+            logger.info(`your page was deleted`);
+            res.status(204).end();
+          })
+          .catch(next);
+      }
+    });
   });
-
 module.exports = userPageRouter;

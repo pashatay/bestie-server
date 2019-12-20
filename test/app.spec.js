@@ -6,4 +6,9 @@ describe("App", () => {
       .get("/")
       .expect(200, "Hello, world!");
   });
+  it('GET /login responds with 400 containing "you must login first"', () => {
+    return supertest(app)
+      .get("/login")
+      .expect(400, { error: { message: `you must login first` } });
+  });
 });
