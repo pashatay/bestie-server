@@ -11,4 +11,17 @@ describe("App", () => {
       .get("/login")
       .expect(400, { error: { message: `you must login first` } });
   });
+  it("POST /Signup responds with 201", () => {
+    return supertest(app)
+      .post("/signup")
+      .send({
+        name: "test",
+        email: "test@gmail.com",
+        password: "test"
+      })
+      .then(res => {
+        expect(res.id).to.not.be.null;
+        expect(res.name).to.equal("test");
+      });
+  });
 });
