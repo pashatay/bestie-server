@@ -9,7 +9,7 @@ const userPageRouter = express.Router();
 const bodyParser = express.json();
 
 userPageRouter
-  .route("/:userId")
+  .route("/mainpage")
   .get(bodyParser, validateBearerToken, (req, res, next) => {
     jwt.verify(req.token, JWT_KEY, (err, authData) => {
       if (err) {
