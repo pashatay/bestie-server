@@ -12,7 +12,7 @@ const addFriendRouter = express.Router();
 const bodyParser = express.json();
 
 addFriendRouter
-  .route("/:userId/addfriend")
+  .route("/addfriend")
   .post(bodyParser, validateBearerToken, (req, res, next) => {
     jwt.verify(req.token, JWT_KEY, (err, authData) => {
       if (err) {
@@ -20,60 +20,13 @@ addFriendRouter
       } else {
         const userid = authData.id;
 
-        const {
-          first_name,
-          last_name,
-          dob,
-          relationship,
-          profession,
-          hobbies,
-          cuisine,
-          dessert,
-          nonalc_beverage,
-          alc_beverage,
-          color,
-          flowers,
-          movies,
-          books,
-          tv_shows,
-          music,
-          sportgames,
-          brands,
-          humour,
-          dreams,
-          fears,
-          chat_topics,
-          no_topics,
-          inspirations,
-          other
-        } = req.body;
+        const { first_name, last_name, dob, relationship } = req.body;
 
         const newFriend = {
           first_name,
           last_name,
           dob,
           relationship,
-          profession,
-          hobbies,
-          cuisine,
-          dessert,
-          nonalc_beverage,
-          alc_beverage,
-          color,
-          flowers,
-          movies,
-          books,
-          tv_shows,
-          music,
-          sportgames,
-          brands,
-          humour,
-          dreams,
-          fears,
-          chat_topics,
-          no_topics,
-          inspirations,
-          other,
           userid
         };
 
