@@ -56,6 +56,13 @@ const DataService = {
       .then(rows => {
         return rows[0];
       });
+  },
+  findBdayFriend(knex, date) {
+    return knex
+      .from("users_data")
+      .select("first_name", "last_name", "dob", "relationship", "name", "email")
+      .where("dob", "like", `%${date}`)
+      .innerJoin("users", "userid", "users.id");
   }
 };
 

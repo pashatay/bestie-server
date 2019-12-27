@@ -6,7 +6,7 @@ const helmet = require("helmet");
 const { NODE_ENV } = require("./config");
 const errorHandler = require("./error-handler");
 const routerHub = require("../app-data/router-hub");
-
+const cron = require("./cron");
 const app = express();
 
 app.use(
@@ -17,7 +17,6 @@ app.use(
 app.use(helmet());
 app.use(cors());
 //app.use(validateBearerToken);
-
 app.use(routerHub);
 
 app.get("/", (req, res) => {
