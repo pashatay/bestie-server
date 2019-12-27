@@ -1,10 +1,6 @@
-const path = require("path");
 const express = require("express");
-const xss = require("xss");
 const logger = require("../../src/logger");
 const DataService = require("../data-service");
-const bcrypt = require("bcrypt");
-const jwt = require("jsonwebtoken");
 
 const verifyRouter = express.Router();
 const bodyParser = express.json();

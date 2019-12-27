@@ -4,7 +4,7 @@ const { EMAIL_PASSWORD } = require("./config");
 const transporter = nodeMailer.createTransport({
   host: "smtp.gmail.com",
   port: 465,
-  secure: true, //true for 465 port, false for other ports
+  secure: true,
   auth: {
     user: "bestie.secretary@gmail.com",
     pass: EMAIL_PASSWORD
@@ -17,11 +17,11 @@ const sendEmails = {
     const msg = `Hey, ${name}! Your ${relationship}, ${first_name} ${last_name} is having a bday today!`;
 
     let mailOptions = {
-      from: "bestie.secretary@gmail.com", // sender address
-      to: email, // list of receivers
-      subject: "Importand reminder", // Subject line
-      text: `${msg}`, // plain text body
-      html: `<b>${msg}</b>` // html body
+      from: "bestie.secretary@gmail.com",
+      to: email,
+      subject: "Importand reminder",
+      text: `${msg}`,
+      html: `<b>${msg}</b>`
     };
 
     transporter.sendMail(mailOptions, (error, info) => {
@@ -37,11 +37,11 @@ const sendEmails = {
     const { verification_code, email } = req;
     const msg = `Welcome to Bestie! Please click on the <a href="http://localhost:8000/verification?code=${verification_code}">Link</a> to verify your email!`;
     let mailOptions = {
-      from: "bestie.secretary@gmail.com", // sender address
-      to: email, // list of receivers
-      subject: "Verify your email address", // Subject line
-      text: `${msg}`, // plain text body
-      html: `<b>${msg}</b>` // html body
+      from: "bestie.secretary@gmail.com",
+      to: email,
+      subject: "Verify your email address",
+      text: `${msg}`,
+      html: `<b>${msg}</b>`
     };
 
     transporter.sendMail(mailOptions, (error, info) => {
