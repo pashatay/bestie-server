@@ -7,12 +7,13 @@ const loginRouter = require("./routers/login-router");
 const addFriendRouter = require("./routers/add-friend-router");
 const userPageRouter = require("./routers/user-page-router");
 const userFriendPageRouter = require("./routers/user-friend-page-router");
-
+const verifyRouter = require("./routers/verify-router");
 //routers path
 routerHub.use(signupRouter);
 routerHub.use(loginRouter);
 routerHub.use(addFriendRouter);
 routerHub.use(userPageRouter);
 routerHub.use(userFriendPageRouter);
+routerHub.use(verifyRouter);
 
 module.exports = routerHub;

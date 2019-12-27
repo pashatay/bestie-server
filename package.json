@@ -29,6 +29,7 @@
     "nodemailer": "^6.4.2",
     "path": "^0.12.7",
     "pg": "^7.14.0",
+    "randomstring": "^1.1.5",
     "winston": "^3.2.1"
   },
   "devDependencies": {

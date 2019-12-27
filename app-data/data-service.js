@@ -15,6 +15,12 @@ const DataService = {
         return rows[0];
       });
   },
+  verifyUser(knex, code) {
+    return knex
+      .from("users")
+      .where("verification_code", code)
+      .update({ verified: "true", verification_code: "" });
+  },
   deleteUser(knex, userID) {
     return knex
       .from("users")

@@ -22,8 +22,12 @@ loginRouter
       .then(user => {
         if (!user) {
           return res
-            .status(401)
+            .status(400)
             .json({ error: "Incorrect email or password!" });
+        } else if (!user.verified) {
+          return res
+            .status(401)
+            .json({ error: "Please verify your account first" });
         }
         return bcrypt.compare(password, user.password).then(passwordsMatch => {
           if (!passwordsMatch) {

@@ -20264,3 +20264,89 @@
 {"message":"New Friend Pavel was created.","level":"info"}
 {"message":"Friends list fetched","level":"info"}
 {"message":"Friends list fetched","level":"info"}
+{"message":"verification_code is not defined","level":"error"}
+{"message":"User tafiusha created.","level":"info"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"Cannot destructure property `code` of 'undefined' or 'null'.","level":"error"}
+{"message":"Cannot destructure property `code` of 'undefined' or 'null'.","level":"error"}
+{"message":"code is not defined","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"res.status.json is not a function","level":"error"}
+{"message":"res.status.json is not a function","level":"error"}
+{"message":"res.status.json is not a function","level":"error"}
+{"message":"res.status.json is not a function","level":"error"}
+{"message":"err is not defined","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User masha created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"User Pasha created.","level":"info"}
+{"message":"User Pavel Petrasyuk created.","level":"info"}
+{"message":"User Pavel Petrasyuk created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"User Pavel Petrasyuk created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"User with pasha.tay@bk.ru is already exist![object Object]","level":"error"}
+{"message":"User Pavel Petrasyuk created.","level":"info"}
+{"message":"User with pasha.tay@bk.ru is already exist![object Object]","level":"error"}
+{"message":"User with pasha.tay@bk.ru is already exist![object Object]","level":"error"}
+{"message":"User pasha created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"User masha created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Joe was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Kate was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
