@@ -9,7 +9,7 @@ const userFriendPageRouter = express.Router();
 const bodyParser = express.json();
 
 userFriendPageRouter
-  .route("/usersfriend")
+  .route("/usersfriend/:friendId")
   .all(bodyParser, validateBearerToken, (req, res, next) => {
     jwt.verify(req.token, JWT_KEY, (err, authData) => {
       if (err) {

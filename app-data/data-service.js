@@ -21,6 +21,18 @@ const DataService = {
       .where("verification_code", code)
       .update({ verified: "true", verification_code: "" });
   },
+  changeUsersEmail(knex, userId, email, verification_code) {
+    return knex
+      .from("users")
+      .where("id", userId)
+      .update({ email, verification_code, verified: "false" });
+  },
+  changeUsersPassword(knex, userId, password) {
+    return knex
+      .from("users")
+      .where("id", userId)
+      .update({ password });
+  },
   deleteUser(knex, userID) {
     return knex
       .from("users")

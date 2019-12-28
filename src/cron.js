@@ -27,7 +27,7 @@ function findBday(db, date) {
   }
 }
 
-cron.schedule("0 0 0 * * *", function() {
+cron.schedule("0 1 * * *", function() {
   findBday(db, today);
   // console.log(bdayPeople);
   //sendMail();
