@@ -23,7 +23,7 @@ loginRouter
         if (!user) {
           return res
             .status(400)
-            .json({ error: "Incorrect email or password!" });
+            .send({ error: { message: "Incorrect email or password!" } });
         } else if (!user.verified) {
           return res
             .status(401)
@@ -33,7 +33,7 @@ loginRouter
           if (!passwordsMatch) {
             return res
               .status(401)
-              .json({ error: "Incorrect email or password!" });
+              .send({ error: { message: "Incorrect email or password!" } });
           }
           const token = jwt.sign(
             {

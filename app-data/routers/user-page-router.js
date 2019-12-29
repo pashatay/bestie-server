@@ -66,40 +66,46 @@ userPageRouter
             if (user) {
               logger.error(`User with ${email} is already exist!${user}`);
               return res.status(400).send({
-                error: { message: `User with email ${email} is already exist!` }
+                error: {
+                  message: `A user with the email ${email} already exists!`
+                }
               });
-            }
-            DataService.changeUsersEmail(
-              req.app.get("db"),
-              userid,
-              email,
-              verification_code
-            )
-              .then(user => {
-                logger.info(`Userss email was updated.`);
-                res.status(201).json(user);
-              })
-              .then(
-                sendEmails.sendEmailVerification({ verification_code, email })
+            } else {
+              DataService.changeUsersEmail(
+                req.app.get("db"),
+                userid,
+                email,
+                verification_code
               )
-              .catch(next);
-          });
-        } else {
-          bcrypt.hash(password, 10, (err, hash) => {
-            if (err) {
-              return res.status(500).json({
-                error: err
-              });
+                .then(user => {
+                  logger.info(`Users email was updated.`);
+                  res.status(201).send({
+                    error: {
+                      message: `Almost done! Please check your inbox for the link to verify your new email.`
+                    }
+                  });
+                })
+                .then(
+                  sendEmails.sendEmailVerification({ verification_code, email })
+                )
+                .catch(next);
             }
-            password = hash;
-            DataService.changeUsersPassword(req.app.get("db"), userid, password)
-              .then(user => {
-                logger.info(`Userss email was updated.`);
-                res.status(201).json(user);
-              })
-              .catch(next);
           });
         }
+        bcrypt.hash(password, 10, (err, hash) => {
+          if (err) {
+            return res.status(500).json({
+              error: err
+            });
+          }
+          password = hash;
+          DataService.changeUsersPassword(req.app.get("db"), userid, password)
+            .then(user => {
+              logger.info(`Users password was updated.`);
+              res.status(201).json(user);
+            })
+            .catch(next);
+        });
       }
     });
   });

@@ -44,7 +44,7 @@ signupRouter
       if (user) {
         logger.error(`User with ${email} is already exist!${user}`);
         return res.status(400).send({
-          error: { message: `User with email ${email} is already exist!` }
+          error: { message: `A user with the email ${email} already exists.` }
         });
       }
       bcrypt.hash(password, 10, (err, hash) => {
