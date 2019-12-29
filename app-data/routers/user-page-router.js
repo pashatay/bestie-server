@@ -91,21 +91,22 @@ userPageRouter
                 .catch(next);
             }
           });
+        } else if (password) {
+          bcrypt.hash(password, 10, (err, hash) => {
+            if (err) {
+              return res.status(500).json({
+                error: err
+              });
+            }
+            password = hash;
+            DataService.changeUsersPassword(req.app.get("db"), userid, password)
+              .then(user => {
+                logger.info(`Users password was updated.`);
+                res.status(201).json(user);
+              })
+              .catch(next);
+          });
         }
-        bcrypt.hash(password, 10, (err, hash) => {
-          if (err) {
-            return res.status(500).json({
-              error: err
-            });
-          }
-          password = hash;
-          DataService.changeUsersPassword(req.app.get("db"), userid, password)
-            .then(user => {
-              logger.info(`Users password was updated.`);
-              res.status(201).json(user);
-            })
-            .catch(next);
-        });
       }
     });
   });
