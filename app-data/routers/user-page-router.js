@@ -80,7 +80,7 @@ userPageRouter
                 .then(user => {
                   logger.info(`Users email was updated.`);
                   res.status(201).send({
-                    error: {
+                    message: {
                       message: `Almost done! Please check your inbox for the link to verify your new email.`
                     }
                   });
@@ -102,7 +102,11 @@ userPageRouter
             DataService.changeUsersPassword(req.app.get("db"), userid, password)
               .then(user => {
                 logger.info(`Users password was updated.`);
-                res.status(201).json(user);
+                res.status(201).send({
+                  message: {
+                    message: `Your password was updated. You can login now with the new password.`
+                  }
+                });
               })
               .catch(next);
           });
