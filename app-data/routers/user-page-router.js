@@ -86,7 +86,7 @@ userPageRouter
                   });
                 })
                 .then(
-                  sendEmails.sendEmailVerification({ verification_code, email })
+                  sendEmails.sendEmailChangeEmail({ verification_code, email })
                 )
                 .catch(next);
             }

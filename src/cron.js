@@ -21,7 +21,7 @@ const findBday = async (db, date) => {
   return emails;
 };
 
-const job = new CronJob("00 05 05 * * *", function() {
-  findBday(db, today);
+const job = new CronJob("* * * * * *", function() {
+  //findBday(db, today);
 });
 job.start();

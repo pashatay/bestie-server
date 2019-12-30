@@ -62,7 +62,12 @@ signupRouter
               .location(path.posix.join(req.originalUrl, `${user.id}`))
               .json(user);
           })
-          .then(sendEmails.sendEmailVerification({ verification_code, email }))
+          .then(
+            sendEmails.sendEmailInitialVerification({
+              verification_code,
+              email
+            })
+          )
           .catch(next);
       });
     });
