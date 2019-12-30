@@ -27,7 +27,7 @@ loginRouter
         } else if (!user.verified) {
           return res
             .status(401)
-            .json({ error: "Please verify your account first" });
+            .send({ error: { message: "Please verify your account first." } });
         }
         return bcrypt.compare(password, user.password).then(passwordsMatch => {
           if (!passwordsMatch) {

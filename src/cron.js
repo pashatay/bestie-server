@@ -1,9 +1,10 @@
-const cron = require("node-cron");
+const CronJob = require("cron").CronJob;
 const DataService = require("../app-data/data-service");
 const sendEmails = require("./email-sender");
 const moment = require("moment");
 const knex = require("knex");
 const { DB_URL } = require("./config");
+
 const db = knex({
   client: "pg",
   connection: DB_URL
@@ -22,13 +23,12 @@ function findBday(db, date) {
       sendEmails.sendEmailReminder(person);
     });
   } else {
-    return false;
+    false;
     console.log(bdayPeople);
   }
 }
 
-cron.schedule("0 1 * * *", function() {
+const job = new CronJob("0 0 20 * * *", function() {
   findBday(db, today);
-  // console.log(bdayPeople);
-  //sendMail();
 });
+job.start();
