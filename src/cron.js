@@ -12,23 +12,16 @@ const db = knex({
 
 const today = moment().format("MM-DD");
 let bdayPeople;
-function findBday(db, date) {
-  DataService.findBdayFriend(db, date).then(bday => {
-    return (bdayPeople = bday);
-    //transfer result to mail function
-  });
-  if (bdayPeople) {
-    console.log(bdayPeople);
-    return bdayPeople.map(person => {
-      sendEmails.sendEmailReminder(person);
-    });
-  } else {
-    false;
-    console.log(bdayPeople);
-  }
-}
 
-const job = new CronJob("0 0 20 * * *", function() {
+const findBday = async (db, date) => {
+  bdayPeople = await DataService.findBdayFriend(db, date);
+  const emails = await bdayPeople.map(person => {
+    return sendEmails.sendEmailReminder(person);
+  });
+  return emails;
+};
+
+const job = new CronJob("00 05 05 * * *", function() {
   findBday(db, today);
 });
 job.start();
