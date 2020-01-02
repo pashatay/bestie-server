@@ -1,6 +1,6 @@
 const CronJob = require("cron").CronJob;
 const DataService = require("../app-data/data-service");
-const sendEmails = require("./email-sender");
+const sendEmails = require("./nodemailer/email-sender");
 const moment = require("moment");
 const knex = require("knex");
 const { DB_URL } = require("./config");
@@ -21,7 +21,7 @@ const findBday = async (db, date) => {
   return emails;
 };
 
-const job = new CronJob("* * * * * *", function() {
-  //findBday(db, today);
+const job = new CronJob("00 21 * * *", function() {
+  findBday(db, today);
 });
 job.start();

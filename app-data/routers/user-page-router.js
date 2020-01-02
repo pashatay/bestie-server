@@ -4,7 +4,7 @@ const bcrypt = require("bcrypt");
 const logger = require("../../src/logger");
 const DataService = require("../data-service");
 const jwt = require("jsonwebtoken");
-const sendEmails = require("../../src/email-sender");
+const sendEmails = require("../../src/nodemailer/email-sender");
 const validateBearerToken = require("../../src/validate-token");
 const { JWT_KEY } = require("../../src/config");
 

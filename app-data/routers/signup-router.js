@@ -5,7 +5,7 @@ const bcrypt = require("bcrypt");
 const randomstring = require("randomstring");
 const logger = require("../../src/logger");
 const DataService = require("../data-service");
-const sendEmails = require("../../src/email-sender");
+const sendEmails = require("../../src/nodemailer/email-sender");
 
 const signupRouter = express.Router();
 const bodyParser = express.json();

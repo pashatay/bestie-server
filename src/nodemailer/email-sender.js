@@ -1,5 +1,5 @@
 const nodeMailer = require("nodemailer");
-const { EMAIL_PASSWORD } = require("./config");
+const { EMAIL_PASSWORD } = require("../config");
 const hbs = require("nodemailer-express-handlebars");
 
 const transporter = nodeMailer.createTransport({
