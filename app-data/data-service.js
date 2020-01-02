@@ -1,3 +1,5 @@
+const xss = require("xss");
+
 const DataService = {
   doesUserExist(knex, email) {
     return knex
@@ -81,6 +83,27 @@ const DataService = {
       .select("first_name", "last_name", "dob", "relationship", "name", "email")
       .where("dob", "like", `%${date}`)
       .innerJoin("users", "userid", "users.id");
+  },
+  serializeUser(user) {
+    return {
+      id: xss(user.id),
+      name: xss(user.name),
+      email: xss(user.email),
+      password: xss(user.password),
+      verified: xss(user.verified),
+      verification_code: xss(user.verification_code),
+      signup_date: xss(user.signup_date)
+    };
+  },
+  serializeFriend(friend) {
+    return {
+      id: xss(friend.id),
+      first_name: xss(friend.first_name),
+      last_name: xss(friend.last_name),
+      dob: xss(friend.dob),
+      relationship: xss(friend.relationship),
+      userid: xss(friend.userid)
+    };
   }
 };
 

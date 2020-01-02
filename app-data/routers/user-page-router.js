@@ -22,7 +22,7 @@ userPageRouter
         DataService.findUsersFriends(req.app.get("db"), userid)
           .then(friends => {
             logger.info(`Friends list fetched`);
-            res.status(201).json(friends);
+            res.status(201).json(friends.map(DataService.serializeFriend));
           })
           .catch(next);
       }

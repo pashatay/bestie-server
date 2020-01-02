@@ -1,6 +1,5 @@
 const path = require("path");
 const express = require("express");
-const xss = require("xss");
 const bcrypt = require("bcrypt");
 const randomstring = require("randomstring");
 const logger = require("../../src/logger");
@@ -60,7 +59,7 @@ signupRouter
             res
               .status(201)
               .location(path.posix.join(req.originalUrl, `${user.id}`))
-              .json(user);
+              .json(DataService.serializeUser(user));
           })
           .then(
             sendEmails.sendEmailInitialVerification({

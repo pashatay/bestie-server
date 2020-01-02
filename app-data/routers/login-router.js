@@ -1,10 +1,8 @@
-const path = require("path");
 const express = require("express");
-const xss = require("xss");
-const logger = require("../../src/logger");
 const DataService = require("../data-service");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
+const xss = require("xss");
 
 const loginRouter = express.Router();
 const bodyParser = express.json();
@@ -18,6 +16,7 @@ loginRouter
   })
   .post(bodyParser, (req, res, next) => {
     const { email, password } = req.body;
+
     DataService.findUsersPassword(req.app.get("db"), email.toLowerCase())
       .then(user => {
         if (!user) {
@@ -42,12 +41,12 @@ loginRouter
             },
             process.env.JWT_KEY,
 
-            { expiresIn: "1h" }
+            { expiresIn: "10h" }
           );
           res.status(200).json({
-            message: "Auth successful",
-            token: token,
-            id: user.id
+            message: xss("Auth successful"),
+            token: xss(token),
+            id: xss(user.id)
           });
           next();
         });
