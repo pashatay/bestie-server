@@ -119,7 +119,7 @@ describe("Endpoints", () => {
           .query({ code: verification })
           .expect(
             201,
-            "<h2>Your email has been verified. You can <a href='http://localhost:3000/login'>login</a> now.</h2>"
+            "<h2>Your email has been verified. You can <a href='https://bestie-server.herokuapp.com/login'>login</a> now.</h2>"
           );
       });
 
