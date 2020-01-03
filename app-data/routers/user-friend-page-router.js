@@ -31,9 +31,7 @@ userFriendPageRouter
       }
     });
   })
-  .get((req, res, next) => {
-    res.json(res.friend);
-  })
+
   .delete(validateBearerToken, (req, res, next) => {
     jwt.verify(req.token, JWT_KEY, (err, authData) => {
       if (err) {

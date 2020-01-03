@@ -52885,3 +52885,325 @@
 {"message":"name is required","level":"error"}
 {"message":"User test created.","level":"info"}
 {"message":"User verified","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#3 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend image <img src=\"https://url.to.file.which/does-not.exist\" onerror=\"alert(document.cookie);\">. But not <strong>all</strong> bad was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#108 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#4 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#6 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#8 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#10 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#12 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#14 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#16 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#18 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#20 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#22 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend John was created.","level":"info"}
+{"message":"Friend with id#24 is deleted","level":"info"}
+{"message":"New Friend Naughty naughty very naughty <script>alert(\"xss\");</script> was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"your page was deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#107 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#77 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#75 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#111 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#110 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#112 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#113 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}

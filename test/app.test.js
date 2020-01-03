@@ -5,6 +5,34 @@ const supertest = require("supertest");
 
 describe("Endpoints", () => {
   let verification = "";
+  let token = "Bearer ";
+  const user = {
+    name: "test",
+    email: "test@icloud.com",
+    password: "test"
+  };
+  const userLogin = {
+    email: "test@icloud.com",
+    password: "test"
+  };
+  const userDoesntExist = {
+    email: "exist@icloud.com",
+    password: "test"
+  };
+  const newFriend = {
+    first_name: "John",
+    last_name: "Doe",
+    dob: "01/01/2000",
+    relationship: "brother"
+  };
+  const maliciousNewFriend = {
+    first_name: 'Naughty naughty very naughty <script>alert("xss");</script>',
+    last_name: "How-to",
+    dob: "12/12/2012",
+    relationship: `Bad image <img src="https://url.to.file.which/does-not.exist" onerror="alert(document.cookie);">. But not <strong>all</strong> bad.`
+  };
+  let newFriendId = "";
+
   let db;
   before("make knex instance", () => {
     db = knex({
@@ -40,11 +68,6 @@ describe("Endpoints", () => {
     });
 
     it("checks if signing up user already exist", () => {
-      const user = {
-        name: "test",
-        email: "test@icloud.com",
-        password: "test"
-      };
       return supertest(app)
         .post("/signup")
         .send({ user })
@@ -54,11 +77,6 @@ describe("Endpoints", () => {
     });
 
     it("should creates a new user", () => {
-      const user = {
-        name: "test",
-        email: "test@icloud.com",
-        password: "test"
-      };
       return supertest(app)
         .post("/signup")
         .send(user)
@@ -78,26 +96,18 @@ describe("Endpoints", () => {
       });
 
       it("error, must verify account first", () => {
-        const user = {
-          email: "test@icloud.com",
-          password: "test"
-        };
         return supertest(app)
           .post("/login")
-          .send(user)
+          .send(userLogin)
           .set("accept", "application/json")
           .expect("content-type", /json/)
           .expect(401);
       });
 
       it("error, if login user doesnt exist", () => {
-        const user = {
-          email: "exist@icloud.com",
-          password: "test"
-        };
         return supertest(app)
           .post("/login")
-          .send(user)
+          .send(userDoesntExist)
           .set("accept", "application/json")
           .expect("content-type", /json/)
           .expect(400);
@@ -114,17 +124,88 @@ describe("Endpoints", () => {
       });
 
       it("Should login succesfully", () => {
-        const user = {
-          email: "test@icloud.com",
-          password: "test"
-        };
         return supertest(app)
           .post("/login")
-          .send(user)
+          .send(userLogin)
           .set("accept", "application/json")
           .expect("content-type", /json/)
-          .expect(200);
+          .expect(200)
+          .then(res => {
+            token += res.body.token;
+            console.log(token);
+          });
       });
+    });
+  });
+  describe("user home page", () => {
+    it("should fetch users data", () => {
+      return supertest(app)
+        .get("/mainpage")
+        .set("Authorization", token)
+        .send(userLogin)
+        .expect(201);
+    });
+    // it("should change users password", () => {
+    //   return supertest(app)
+    //     .post("/mainpage")
+    //     .set("Authorization", token)
+    //     .send(userLogin)
+    //     .expect(201);
+    // });
+  });
+
+  describe("add friends", () => {
+    it("should add a new friends", () => {
+      return supertest(app)
+        .post("/addfriend")
+        .set("Authorization", token)
+        .send(newFriend)
+        .expect(201)
+        .then(res => {
+          newFriendId = res.body.id;
+        });
+    });
+  });
+  describe("deletefriends", () => {
+    it("should delete a friend", () => {
+      return supertest(app)
+        .delete(`/usersfriend/${newFriendId}`)
+        .set("Authorization", token)
+        .expect(204);
+    });
+  });
+  describe("XSS attack", () => {
+    beforeEach("insert malicious friend", () => {
+      return supertest(app)
+        .post("/addfriend")
+        .set("Authorization", token)
+        .send(maliciousNewFriend)
+        .expect(201)
+        .then(res => {
+          newFriendId = res.body.id;
+        });
+    });
+    it("removes xss atack content", () => {
+      return supertest(app)
+        .get(`/mainpage`)
+        .set("Authorization", token)
+        .expect(res => {
+          console.log(res.body);
+          expect(res.body[0].first_name).to.eql(
+            'Naughty naughty very naughty &lt;script&gt;alert("xss");&lt;/script&gt;'
+          );
+          expect(res.body[0].relationship).to.eql(
+            `Bad image <img src="https://url.to.file.which/does-not.exist">. But not <strong>all</strong> bad.`
+          );
+        });
+    });
+  });
+  describe("delete page", () => {
+    it("deletes user page", () => {
+      return supertest(app)
+        .delete("/mainpage")
+        .set("Authorization", token)
+        .expect(204);
     });
   });
 });
