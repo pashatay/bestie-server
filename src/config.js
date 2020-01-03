@@ -7,5 +7,5 @@ module.exports = {
     process.env.TEST_DATABASE_URL ||
     "postgresql://postgres@localhost/bestie-test",
   JWT_KEY: process.env.JWT_KEY || "Alberto",
-  EMAIL_PASSWORD: process.env.EMAIL_PASSWORD
+  EMAIL_PASSWORD: process.env.EMAIL_PASSWORD || "89297060Kz"
 };

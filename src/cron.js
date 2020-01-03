@@ -7,7 +7,7 @@ const { DATABASE_URL } = require("./config");
 
 const db = knex({
   client: "pg",
-  connection: DDATABASE_URL
+  connection: DATABASE_URL
 });
 
 const today = moment().format("MM-DD");
@@ -21,7 +21,9 @@ const findBday = async (db, date) => {
   return emails;
 };
 
-const job = new CronJob("01 05 * * *", function() {
+const job = new CronJob("* * * * * *", function() {
+  console.log("working");
   findBday(db, today);
 });
+
 job.start();
