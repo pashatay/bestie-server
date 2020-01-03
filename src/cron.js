@@ -3,7 +3,7 @@ const DataService = require("../app-data/data-service");
 const sendEmails = require("./nodemailer/email-sender");
 const moment = require("moment");
 const knex = require("knex");
-const { DB_URL } = require("./config");
+const { DATABASE_URL } = require("./config");
 
 const db = knex({
   client: "pg",
