@@ -7,7 +7,7 @@ const { DATABASE_URL } = require("./config");
 
 const db = knex({
   client: "pg",
-  connection: DB_URL
+  connection: DDATABASE_URL
 });
 
 const today = moment().format("MM-DD");
