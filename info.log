@@ -52728,3 +52728,160 @@
 {"message":"Friends list fetched","level":"info"}
 {"message":"Friends list fetched","level":"info"}
 {"message":"Friends list fetched","level":"info"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"password is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User with test@icloud.com is already exist![object Object]","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User test created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friend with id#79 is deleted","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"New Friend Pavel was created.","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Friends list fetched","level":"info"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"email is required","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"email is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"email is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"email is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"email is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [verification_code] query: update \"users\" set \"verified\" = ?, \"verification_code\" = ? where \"verification_code\" = ?","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"User test created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User verified","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"User test created.","level":"info"}
+{"message":"User verified","level":"info"}
