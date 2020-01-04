@@ -16,7 +16,7 @@ verifyRouter.route("/verification").get(bodyParser, (req, res, next) => {
         res
           .status(201)
           .send(
-            "<h2>Your email has been verified. You can <a href='https://bestie-server.herokuapp.com/login'>login</a> now.</h2>"
+            "<h2>Your email has been verified. You can <a href='https://bestie.now.sh/login'>login</a> now.</h2>"
           );
       }
     })
