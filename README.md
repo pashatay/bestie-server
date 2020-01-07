@@ -1,7 +1,9 @@
 # Bestie-server!
 
 This is a server for **the Bestie App**.
-
+![app image](src/images/demo-devices.png)
+_Bestie_ is an app which sends you email reminders about your friends’ birthdays.
+![app image](src/images/demo-reminder.png)
 You can find the client repo [here](https://github.com/pashatay/bestie).
 
 For the [live page](https://bestie.now.sh/), the serer runs on heroku.
