@@ -6,7 +6,7 @@ _Bestie_ is an app which sends you email reminders about your friends’ birthda
 ![app image](src/images/demo-reminder.png)
 You can find the client repo [here](https://github.com/pashatay/bestie).
 
-For the [live page](https://bestie.now.sh/), the serer runs on heroku.
+For the [live page](https://bestie.now.sh/), the server runs on heroku.
 
 ## To set up the server localy:
 
