@@ -8,6 +8,11 @@ You can find the client repo [here](https://github.com/pashatay/bestie).
 
 For the [live page](https://bestie.now.sh/), the server runs on heroku.
 
+You can use the foolowing demo user credentials:
+
+- email: user@gmail.com
+- password: user
+
 ## To set up the server localy:
 
 1. Clone this repository to your local machine `git clone https://github.com/pashatay/bestie-server NEW-PROJECTS-NAME`
